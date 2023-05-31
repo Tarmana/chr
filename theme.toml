@@ -11,8 +11,8 @@ tags = ["Blog", "Hugo", "Tailwind CSS", "theme", "privacy"]
 features = ["Isso comments", "umami analytics", "SVG icons", "automatic dark mode", "deeplinks"]
 
 [author]
-  name = "Christian Engel"
-  homepage = "https://github.com/chringel21/"
+  name = "Tarmana"
+  homepage = "https://github.com/Tarmana/"
 
 [original]
   author = "Dirk Olbrich"
